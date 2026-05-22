@@ -2,13 +2,15 @@
 
 Supporting notebooks for the Cambridge housing affordability post. These notebooks reproduce all charts and statistics cited in the piece, using public City of Cambridge and federal data.
 
+Please report errors.
+
 ## Notebooks
 
 ### [`notebooks/02_property_assessments.ipynb`](notebooks/02_property_assessments.ipynb)
 
 Choropleth maps and analysis of assessed residential property values across Cambridge's thirteen CDD neighborhoods (FY2026 assessment roll).
 
-**Scope:** The residential dataset covers ~47,200 housing units across ~21,600 privately-owned properties. This includes ~1,600 deed-restricted inclusionary zoning (IZ) units and ~150 scattered-site homeownership units, which are assessed under standard residential codes. It excludes ~2,800 public housing units (Cambridge Housing Authority), university-owned housing (Harvard, MIT, Lesley), and other institutionally-owned dwellings on tax-exempt land. The city's total housing stock is 58,966 units (CDD Land Use Data, June 2025).
+**Scope:** The residential dataset focuses on ~47,200 housing units across ~21,600 privately-owned properties. This _includes_ ~1,600 deed-restricted inclusionary zoning (IZ) units and ~150 scattered-site homeownership units, which are assessed under standard residential codes. It **excludes** ~2,800 public housing units (Cambridge Housing Authority), university-owned housing (Harvard, MIT, Lesley, etc.), and other institutionally-owned dwellings on tax-exempt land. The city's total housing stock is 58,966 units (CDD Land Use Data, June 2025). As such, this analysis focuses on market-accessible units, even though IZ and Affordable units are deed-restricted and not market-rate. This is a intentional decision and should be kept in mind when assessing this data.
 
 | Section | Output |
 |---|---|
