@@ -1,0 +1,5 @@
+# Large fetched data — see README for instructions
+data/raw/cambridge_property_assessments.csv
+
+# Generated notebook outputs — HTML interactive charts are not tracked
+data/out/*.html
