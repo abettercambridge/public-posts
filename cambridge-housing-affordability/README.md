@@ -14,10 +14,8 @@ Choropleth maps and analysis of assessed residential property values across Camb
 
 | Section | Output |
 |---|---|
-| Assessed value per residential unit | `data/out/assessed_value_per_unit_map.png` |
-| Mean units per residential building | `data/out/units_per_building_map.png` |
 | % single-family homes (by units) | `data/out/pct_sfh_map.png` |
-| Value distribution by neighborhood (KDE) | `data/out/value_distribution.png` |
+| % single-family homes (by structure) | `data/out/pct_sfh_structures_map.png` |
 
 ### [`notebooks/04_housing_affordability.ipynb`](notebooks/04_housing_affordability.ipynb)
 
