@@ -50,3 +50,4 @@ Then open either notebook in the browser and run cells top to bottom.
 | `data/raw/City_zhvi_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv` | [Zillow Research](https://www.zillow.com/research/data/), ZHVI SFR+Condo, middle tier, smoothed/seasonally adjusted | Trimmed to 7 Boston-area cities |
 | `data/raw/ACSST1Y2024.S1901-2026-05-19T234744.csv` | U.S. Census Bureau, ACS 1-Year 2024, Table S1901 | Cambridge city, Middlesex County, MA |
 | `data/raw/cpi_u_annual.csv` | U.S. Bureau of Labor Statistics, Series CUUR0000SA0 | Annual averages, 1996-2024 |
+| *(hardcoded in notebook)* | Cambridge CDD, [Affordable Housing Distribution by Neighborhood (Jan 2026)](https://www.cambridgema.gov/CDD/News/2026/01/-/media/583FC7CE9E384FCEA1042F0C09FB99C0.ashx) | Total housing units by neighborhood (58,966 citywide); used as part of SFH choropleth denominator |
