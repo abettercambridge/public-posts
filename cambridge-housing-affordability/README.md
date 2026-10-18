@@ -25,6 +25,10 @@ Cambridge housing affordability indicators: median home price by property type, 
 |---|---|
 | Net housing units per 1k households (bar chart) | `data/out/housing_starts_per_1k.png` |
 
+### [`notebooks/affordable_cambridge_website_citations.ipynb`](notebooks/affordable_cambridge_website_citations.ipynb)
+
+Sources for the three figures the [Affordable Cambridge](https://affordablecambridge.org/) website credits to "A Better Cambridge housing data": net homes permitted by neighborhood (2018–2025), West Cambridge homes lost to single-home conversions (1996–2024), and the typical Cambridge home value (Zillow ZHVI, 2000–2026).
+
 ## Setup
 
 Requires Python 3.9+ and [uv](https://docs.astral.sh/uv/).
